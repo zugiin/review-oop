@@ -17,3 +17,4 @@ Additional references:
 	- https://www.geeksforgeeks.org/python/python-staticmethod/
 	- https://www.geeksforgeeks.org/python/classmethod-in-python/
 - factory method: https://www.geeksforgeeks.org/python/factory-method-python-design-patterns/
+- https://www.geeksforgeeks.org/python/python-oops-aggregation-and-composition/
