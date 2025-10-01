@@ -1,8 +1,3 @@
-Additional references:
-- @classmethod vs @staticmethod: 
-	- https://www.geeksforgeeks.org/python/python-staticmethod/
-	- https://www.geeksforgeeks.org/python/classmethod-in-python/
-- factory method: https://www.geeksforgeeks.org/python/factory-method-python-design-patterns/
 ## Key Pillars of OOP
 https://www.geeksforgeeks.org/python/python-oops-concepts/
 
@@ -17,3 +12,9 @@ https://www.geeksforgeeks.org/python/constructors-in-python/
 
 1. Default Constructor
 2. Parameterized Constructor
+---
+Additional references:
+- @classmethod vs @staticmethod: 
+	- https://www.geeksforgeeks.org/python/python-staticmethod/
+	- https://www.geeksforgeeks.org/python/classmethod-in-python/
+- factory method: https://www.geeksforgeeks.org/python/factory-method-python-design-patterns/
